@@ -1,0 +1,1 @@
+{"name":"unit3-study-lab","version":"1.0.0","private":true,"scripts":{"build":"node scripts/build.cjs","test":"node tests/verify.cjs","start":"node scripts/serve.cjs"}}
